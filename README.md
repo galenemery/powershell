@@ -1,0 +1,1 @@
+This repo contains a collection of powershell scripts, primarily for use with Chef.
